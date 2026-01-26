@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\CsharpAdvanced\Finalizer\bin\Debug\net10.0\Finalizer.exe
+C:\Users\HP\Desktop\CsharpAdvanced\Finalizer\bin\Debug\net10.0\Finalizer.deps.json
+C:\Users\HP\Desktop\CsharpAdvanced\Finalizer\bin\Debug\net10.0\Finalizer.runtimeconfig.json
+C:\Users\HP\Desktop\CsharpAdvanced\Finalizer\bin\Debug\net10.0\Finalizer.dll
+C:\Users\HP\Desktop\CsharpAdvanced\Finalizer\bin\Debug\net10.0\Finalizer.pdb
+C:\Users\HP\Desktop\CsharpAdvanced\Finalizer\obj\Debug\net10.0\Finalizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\CsharpAdvanced\Finalizer\obj\Debug\net10.0\Finalizer.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\CsharpAdvanced\Finalizer\obj\Debug\net10.0\Finalizer.AssemblyInfo.cs
+C:\Users\HP\Desktop\CsharpAdvanced\Finalizer\obj\Debug\net10.0\Finalizer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CsharpAdvanced\Finalizer\obj\Debug\net10.0\Finalizer.sourcelink.json
+C:\Users\HP\Desktop\CsharpAdvanced\Finalizer\obj\Debug\net10.0\Finalizer.dll
+C:\Users\HP\Desktop\CsharpAdvanced\Finalizer\obj\Debug\net10.0\refint\Finalizer.dll
+C:\Users\HP\Desktop\CsharpAdvanced\Finalizer\obj\Debug\net10.0\Finalizer.pdb
+C:\Users\HP\Desktop\CsharpAdvanced\Finalizer\obj\Debug\net10.0\Finalizer.genruntimeconfig.cache
+C:\Users\HP\Desktop\CsharpAdvanced\Finalizer\obj\Debug\net10.0\ref\Finalizer.dll
