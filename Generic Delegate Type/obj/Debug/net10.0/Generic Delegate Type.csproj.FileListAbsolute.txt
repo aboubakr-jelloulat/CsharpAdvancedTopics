@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\CsharpAdvanced\Generic Delegate Type\obj\Debug\net10.0\Generic Delegate Type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\CsharpAdvanced\Generic Delegate Type\obj\Debug\net10.0\Generic Delegate Type.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\CsharpAdvanced\Generic Delegate Type\obj\Debug\net10.0\Generic Delegate Type.AssemblyInfo.cs
+C:\Users\HP\Desktop\CsharpAdvanced\Generic Delegate Type\obj\Debug\net10.0\Generic Delegate Type.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CsharpAdvanced\Generic Delegate Type\obj\Debug\net10.0\Generic Delegate Type.sourcelink.json
+C:\Users\HP\Desktop\CsharpAdvanced\Generic Delegate Type\bin\Debug\net10.0\Generic Delegate Type.exe
+C:\Users\HP\Desktop\CsharpAdvanced\Generic Delegate Type\bin\Debug\net10.0\Generic Delegate Type.deps.json
+C:\Users\HP\Desktop\CsharpAdvanced\Generic Delegate Type\bin\Debug\net10.0\Generic Delegate Type.runtimeconfig.json
+C:\Users\HP\Desktop\CsharpAdvanced\Generic Delegate Type\bin\Debug\net10.0\Generic Delegate Type.dll
+C:\Users\HP\Desktop\CsharpAdvanced\Generic Delegate Type\bin\Debug\net10.0\Generic Delegate Type.pdb
+C:\Users\HP\Desktop\CsharpAdvanced\Generic Delegate Type\obj\Debug\net10.0\Generic Delegate Type.dll
+C:\Users\HP\Desktop\CsharpAdvanced\Generic Delegate Type\obj\Debug\net10.0\refint\Generic Delegate Type.dll
+C:\Users\HP\Desktop\CsharpAdvanced\Generic Delegate Type\obj\Debug\net10.0\Generic Delegate Type.pdb
+C:\Users\HP\Desktop\CsharpAdvanced\Generic Delegate Type\obj\Debug\net10.0\Generic Delegate Type.genruntimeconfig.cache
+C:\Users\HP\Desktop\CsharpAdvanced\Generic Delegate Type\obj\Debug\net10.0\ref\Generic Delegate Type.dll
