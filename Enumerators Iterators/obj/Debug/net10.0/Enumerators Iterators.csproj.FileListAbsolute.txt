@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\CsharpAdvanced\Enumerators Iterators\bin\Debug\net10.0\Enumerators Iterators.exe
+C:\Users\HP\Desktop\CsharpAdvanced\Enumerators Iterators\bin\Debug\net10.0\Enumerators Iterators.deps.json
+C:\Users\HP\Desktop\CsharpAdvanced\Enumerators Iterators\bin\Debug\net10.0\Enumerators Iterators.runtimeconfig.json
+C:\Users\HP\Desktop\CsharpAdvanced\Enumerators Iterators\bin\Debug\net10.0\Enumerators Iterators.dll
+C:\Users\HP\Desktop\CsharpAdvanced\Enumerators Iterators\bin\Debug\net10.0\Enumerators Iterators.pdb
+C:\Users\HP\Desktop\CsharpAdvanced\Enumerators Iterators\obj\Debug\net10.0\Enumerators Iterators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\CsharpAdvanced\Enumerators Iterators\obj\Debug\net10.0\Enumerators Iterators.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\CsharpAdvanced\Enumerators Iterators\obj\Debug\net10.0\Enumerators Iterators.AssemblyInfo.cs
+C:\Users\HP\Desktop\CsharpAdvanced\Enumerators Iterators\obj\Debug\net10.0\Enumerators Iterators.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CsharpAdvanced\Enumerators Iterators\obj\Debug\net10.0\Enumerators Iterators.sourcelink.json
+C:\Users\HP\Desktop\CsharpAdvanced\Enumerators Iterators\obj\Debug\net10.0\Enumerators Iterators.dll
+C:\Users\HP\Desktop\CsharpAdvanced\Enumerators Iterators\obj\Debug\net10.0\refint\Enumerators Iterators.dll
+C:\Users\HP\Desktop\CsharpAdvanced\Enumerators Iterators\obj\Debug\net10.0\Enumerators Iterators.pdb
+C:\Users\HP\Desktop\CsharpAdvanced\Enumerators Iterators\obj\Debug\net10.0\Enumerators Iterators.genruntimeconfig.cache
+C:\Users\HP\Desktop\CsharpAdvanced\Enumerators Iterators\obj\Debug\net10.0\ref\Enumerators Iterators.dll
